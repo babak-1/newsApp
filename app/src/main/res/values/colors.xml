@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_blue">#1877F2</color>
+    <color name="error_red">#C30052</color>
+    <color name="error_light_red">#FFF3F8</color>
+    <color name="stroke_color_input">#4E4B66</color>
+    <color name="gray_btn">#EEF1F4</color>
+    <color name="gray_text">#667080</color>
+</resources>

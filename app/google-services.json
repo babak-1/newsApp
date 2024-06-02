@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239659348473",
+    "project_id": "newsapp-8dd48",
+    "storage_bucket": "newsapp-8dd48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239659348473:android:1423b1f7c168e4d6d9cd28",
+        "android_client_info": {
+          "package_name": "com.babak.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOF--fTdJ_OrCz-fW4-yS_sbLjo1Imwzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
